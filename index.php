@@ -1,1 +1,1 @@
-<?php include_once("startbootstrap-stylish-portfolio-gh-pages/js/index.html"); ?>
+<?php include_once("index.html"); ?>
